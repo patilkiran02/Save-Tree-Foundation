@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+}
+
+
+marquee{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgreen;
+}
+.navbar{
+    background-image: linear-gradient(green,yellow);
+    font-size: large;
+    
+    
+}
+.nav-link
+{
+    color: black;
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: darkblue;
+}
+.mt-5{
+    padding-right: 200px;
+    
+}
+.donation-form .input-field .input-group{
+    width: 100%;
+    border:1px solid #053001;
+    border-radius: 7px;
+    padding: 5px 10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16);
+    
+}
+.donation-form .input-field .input-group .input-group-text{
+    font-size: 16px;
+    background: transparent;
+    border:0;
+    font-weight: bold;
+    
+   
+}
+.donation-form .input-field .input-group .form-control{
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    border-bottom: 0;
+    border-top:0;
+    border-radius: 0;
+    border-right: 0;
+    padding: 0 0 0 25px;
+    height: 50px;
+    font-size: 16px;
+    color:#000;
+    
+}
+.donation-form .input-field .input-group .form-control:placeholder{
+    font-size: 16px;
+    color: #7a7b7c;
+    font-weight: 400;
+}
+.donation-form .input-field .input-group .form-control:focus{
+    outline: none;
+    box-shadow:none;
+    
+}
+.donation-form .amount .need{
+    box-shadow: 0  3px 6px rgba(0,0,0,0.16);
+    padding: 18px 27px;
+    border-radius: 7px;
+    border: 1px solid #3cc78f;
+    display: block;
+    overflow: hidden;
+}
+@media (max-width: 767px){
+    .donation-form .amount .need{
+        display: block ;
+        margin-top: 15px;
+    }
+}
+.donation-form .amount .need .select h5{
+    font-size: 16px;
+    color: #7a7b7c;
+    margin-bottom: 0;
+}
+.donation-form .amount .need .fund label{
+    font-size: 16px;
+    font-weight: 400;
+    color:#7a7b7c;
+    margin-bottom: 0;
+
+}
+
+@media(max-width: 767px){
+    .donation-form .amount .need .fund{
+        width: 33.33%;
+        float:left;
+        margin-top: 10px;
+    }
+}
+.donation-btn{
+    margin-top: 50px;
+}
+.btn-don{
+    background: #053001;
+    color: #fff;
+    border-radius: 50px;
+}
+.btn-don:hover{
+    color: #9ef596;
+}
+#dnbody{
+    
+    background-color: #9ef596;
+}
+
+.make{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#youtube{
+    padding: 5px;
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: maroon;
+}
+.container1 embed{
+    padding-left: 100px;
+
+}
+
+/*About page */
+
+.heading{
+    color: rgb(242, 253, 247);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(green,rgb(71,212,28));
+
+}
+.headingg{
+    color: rgb(71, 212, 28);
+
+}
+.heading-3{
+
+    color: rgb(71, 212, 28);
+
+}
+
+/* contact*/
+.contact{
+    background-color:  rgba(105, 218, 70, 0.938);
+
+}
+
