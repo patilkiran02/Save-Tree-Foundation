@@ -1,7 +1,6 @@
 # Save-Tree-Foundation Website
 Create Simple Website of save tree foundation with responsive 
 
-file:///C:/Users/Kiran%20Patil/Desktop/mini%20project%20web%20developement/home.html
 
 
 #Home
